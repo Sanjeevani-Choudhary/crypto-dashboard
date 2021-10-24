@@ -1,0 +1,8 @@
+streamlit
+pandas 
+datetime
+numpy 
+plotly
+time
+data_plot
+cbpro
