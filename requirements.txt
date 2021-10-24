@@ -1,7 +1,6 @@
-streamlit
-pandas 
-datetime
+streamlit 0.89.0
+pandas 1.3.3
+datetime 
 numpy 
 plotly
-data_plot
 cbpro
